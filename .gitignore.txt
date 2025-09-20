@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dados grandes ou temporários (opcional)
+*.csv
+*.xlsx
+*.json
